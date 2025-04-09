@@ -53,12 +53,13 @@ button{
     margin-top: 7.81rem;
     margin-bottom: 2.75rem;
 }
-footer{
-    height: 1.5rem;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    background-color: #8234E9;
+footer {
+  height: 1.5rem;
+  width: 100%;
+  background-color: #8234E9;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 .imgs{
     background: none;
